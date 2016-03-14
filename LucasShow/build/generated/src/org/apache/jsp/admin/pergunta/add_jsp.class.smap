@@ -1,0 +1,26 @@
+SMAP
+add_jsp.java
+JSP
+*S JSP
+*F
++ 0 add.jsp
+admin/pergunta/add.jsp
++ 1 cabecalho.jsp
+admin/pergunta/../cabecalho.jsp
++ 2 rodape.jsp
+admin/pergunta/../rodape.jsp
+*L
+1,4:53
+1#1,59:56
+4#0,5:114
+10,5:121
+14,50:126
+63,3:176
+65,5:179
+70:184,5
+71,3:189
+75,3:194
+77,82:197
+1#2,26:278
+158#0,2:303
+*E
